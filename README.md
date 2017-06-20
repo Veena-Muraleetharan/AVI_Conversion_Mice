@@ -10,7 +10,7 @@
 
 **Experimental set-up**
 ---
-Data is collected from head-fixed mice that run on a wheel while neuronal recordings are collected. The frame rate of the camera is 30Hz and the pupil measurements are normalized before analysis of the pupil axis.
+Data is collected from head-fixed mice that run on a wheel while neuronal recordings are collected. The frame rate of the camera is approximately 30Hz and the pupil measurements are normalized before analysis of the pupil axis.
 
 
 
